@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\bin\Debug\netcoreapp3.0\GetToKnowYourClassmates.exe
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\bin\Debug\netcoreapp3.0\GetToKnowYourClassmates.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\bin\Debug\netcoreapp3.0\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\bin\Debug\netcoreapp3.0\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\bin\Debug\netcoreapp3.0\GetToKnowYourClassmates.dll
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\bin\Debug\netcoreapp3.0\GetToKnowYourClassmates.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\obj\Debug\netcoreapp3.0\GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\obj\Debug\netcoreapp3.0\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\obj\Debug\netcoreapp3.0\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\obj\Debug\netcoreapp3.0\GetToKnowYourClassmates.dll
+C:\Users\jbenk\Desktop\bootcamp2019\GetToKnowYourClassmates\obj\Debug\netcoreapp3.0\GetToKnowYourClassmates.pdb
